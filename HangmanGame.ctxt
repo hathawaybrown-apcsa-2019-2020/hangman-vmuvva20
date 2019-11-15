@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HangmanGame
+comment0.text=\n\ Write\ a\ description\ of\ class\ HangmanGame\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=secretWord
+comment1.target=HangmanGame(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getGuessed()
+comment3.params=
+comment3.target=java.lang.String\ getTried()
+comment4.params=s
+comment4.target=int\ tryLetter(char)
+numComments=5
