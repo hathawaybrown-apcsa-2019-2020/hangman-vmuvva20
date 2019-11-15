@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=HangmanGame
-comment0.text=\n\ Write\ a\ description\ of\ class\ HangmanGame\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ Construct\ HangmanGame\ and\ test\ the\ guessed\ letters.\n\n\ @Vedha\ Muvva\ and\ Suzy\ Schwabl\n\ @version\ (2019-11-14)\n
 comment1.params=secretWord
 comment1.target=HangmanGame(java.lang.String)
 comment2.params=

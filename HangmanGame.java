@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class HangmanGame here.
+ * Construct HangmanGame and test the guessed letters.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @Vedha Muvva and Suzy Schwabl
+ * @version (2019-11-14)
  */
 public class HangmanGame
 {
